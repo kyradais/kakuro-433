@@ -1,0 +1,16 @@
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\bin\Debug\Kakuro433.exe.config
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\bin\Debug\Kakuro433.exe
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\bin\Debug\Kakuro433.pdb
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\Kakuro433.csprojAssemblyReference.cache
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\WindowsFormsApplication3.Form1.resources
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\WindowsFormsApplication3.Form2.resources
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\WindowsFormsApplication3.Form3.resources
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\WindowsFormsApplication3.Form4.resources
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\Kakuro433.Properties.Resources.resources
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\Kakuro433.csproj.GenerateResource.cache
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\Kakuro433.exe
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\Kakuro433.pdb
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\bin\Debug\Kakuro433.exe.manifest
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\bin\Debug\Kakuro433.application
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\Kakuro433.exe.manifest
+D:\Document\Visual Studio 2019\Kakuro433\Kakuro433\obj\Debug\Kakuro433.application
